@@ -1,0 +1,35 @@
+h1 {
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    font-family: "Lobster";
+}
+.h21 {
+    font-size: 45px;
+    color: rgb(9, 135, 17);
+    font-family: "Comfortaa";
+}
+img {
+    width: 500px;
+    border: 3px solid rgb(9, 135, 17) ;
+}
+p {
+    font-size: 30px;
+    color: rgb(9, 135, 17);
+    font-family: "Comfortaa";
+}
+.h22 {
+    font-size: 30px;
+    color: rgb(35, 163, 105);
+    font-family: "Play";
+}
+ul {
+    font-size: 25px;
+    color: rgb(35, 163, 105);
+    font-family: "Play";
+
+}
+span {
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-family: "Lobster";
+}
